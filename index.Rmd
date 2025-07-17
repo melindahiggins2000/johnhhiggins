@@ -2,4 +2,4 @@
 output: html_document
 ---
 
-[![](sidebarcv_john2_03092024.png)](sidebarcv_john2_03092024.pdf)
+[![](sidebarcv_john2_07172025.png)](sidebarcv_john2_07172025.pdf)
